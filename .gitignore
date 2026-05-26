@@ -1,1 +1,20 @@
-./site
+site/
+.cache/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.DS_Store
+
+# Do not store large generated outputs in Git
+*.root
+*.h5
+*.hdf5
+*.parquet
+*.npy
+*.npz
+
+# Local temporary files
+tmp/
