@@ -1,0 +1,6 @@
+mkdir -p /tmp/lichengz/venvs
+python3 -m venv /tmp/lichengz/venvs/cern-eos-phy-det-page
+source /tmp/lichengz/venvs/cern-eos-phy-det-page/bin/activate
+pip install --upgrade pip
+pip install -r /eos/user/l/lichengz/cern-eos-phy-det-page/requirements.txt
+

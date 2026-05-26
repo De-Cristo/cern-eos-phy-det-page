@@ -1,0 +1,60 @@
+site_name: CMS PHY DET Analysis
+site_url: https://cms-phy-det-analysis.docs.cern.ch/
+site_description: Project hub, daily development logs, wikis, and AI-assisted analysis documentation.
+site_author: CMS PHY DET Analysis Team
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+  - footnotes
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Projects:
+      - Overview: projects/index.md
+      - Project Template:
+          - Overview: projects/template/overview.md
+          - Daily Log: projects/template/daily-log.md
+          - Wiki: projects/template/wiki.md
+          - Meetings: projects/template/meetings.md
+          - Resources: projects/template/resources.md
+      - My First Project:
+          - Overview: projects/my-first-project/overview.md
+          - Daily Log: projects/my-first-project/daily-log.md
+          - Wiki: projects/my-first-project/wiki.md
+          - Meetings: projects/my-first-project/meetings.md
+          - Resources: projects/my-first-project/resources.md
+  - Daily Logs:
+      - Overview: logs/index.md
+      - 2026-05-26: logs/2026/2026-05-26.md
+  - Wiki:
+      - Overview: wiki/index.md
+      - EOS: wiki/eos.md
+      - GitLab: wiki/gitlab.md
+      - CMS Analysis: wiki/cms-analysis.md
+  - Templates:
+      - Daily Log Template: templates/daily-log-template.md
+      - Project Template: templates/project-template.md
+      - Meeting Template: templates/meeting-template.md
+  - AI:
+      - Agent Rules: ai/agent-rules.md
+      - Editing Policy: ai/editing-policy.md
+      - Roadmap: ai/roadmap.md
