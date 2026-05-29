@@ -1,4 +1,5 @@
 import os
+import httpx
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -31,10 +32,58 @@ def health_check():
     return {"status": "healthy"}
 
 @app.post("/chat")
-def chat(request: ChatRequest):
-    kimi_api_key_exists = "KIMI_API_KEY" in os.environ
-    return {
-        "answer": f"Backend received your question: {request.question}",
-        "kimi_api_key_configured": kimi_api_key_exists,
-        "sources": []
+async def chat(request: ChatRequest):
+    api_key = os.environ.get("KIMI_API_KEY")
+    if not api_key:
+        return {
+            "answer": "KIMI_API_KEY is not configured.",
+            "kimi_api_key_configured": False,
+            "sources": []
+        }
+
+    url = "https://api.moonshot.cn/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
     }
+    payload = {
+        "model": "moonshot-v1-8k",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are an AI assistant for lichengz's CERN detector analysis website. For now, answer normally and briefly. Later you will answer using retrieved website context."
+            },
+            {
+                "role": "user",
+                "content": request.question
+            }
+        ],
+        "temperature": 0.3
+    }
+
+    try:
+        async with httpx.AsyncClient() as client:
+            response = await client.post(url, headers=headers, json=payload, timeout=30.0)
+            
+            if response.status_code != 200:
+                # Do not expose the API key in the error message
+                return {
+                    "answer": f"API request failed with status code {response.status_code}: {response.text}",
+                    "kimi_api_key_configured": True,
+                    "sources": []
+                }
+            
+            data = response.json()
+            answer = data["choices"][0]["message"]["content"]
+            
+            return {
+                "answer": answer,
+                "kimi_api_key_configured": True,
+                "sources": []
+            }
+    except Exception as e:
+        return {
+            "answer": f"An error occurred while calling the API: {str(e)}",
+            "kimi_api_key_configured": True,
+            "sources": []
+        }
