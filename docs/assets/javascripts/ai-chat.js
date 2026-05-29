@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
         conversationHistory.push({ role: 'user', content: text });
 
         try {
-            const response = await fetch('https://corsproxy.io/?https://api.kimi.com/coding/v1/chat/completions', {
+            const response = await fetch('https://api.moonshot.cn/v1/chat/completions', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
