@@ -30,6 +30,14 @@ Welcome to the central workspace for project documentation, daily development lo
 
     [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-hh-bbww/index.md)
 
+-   :material-chart-line: **[CMS Run3 VHbb STXS stage 1.3](projects/cms-run3-vhbb-stxs-stage-1.3/index.md)**
+
+    ---
+
+    Higgs boson measurements in the VH production process with decay to bottom quarks using STXS stage 1.3.
+
+    [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vhbb-stxs-stage-1.3/index.md)
+
 </div>
 
 ## Detector Projects
