@@ -1,6 +1,6 @@
-# Particle Transformal Optimization
+# Particle Transformer
 
-This project focuses on using Transformer-based models and machine learning optimization techniques to enhance particle reconstruction, track fitting, and jet clustering algorithms at CMS.
+This project focuses on using Particle Transformer models and machine learning optimization techniques to enhance particle reconstruction, track fitting, and jet clustering algorithms at CMS.
 
 <div class="grid cards" markdown>
 

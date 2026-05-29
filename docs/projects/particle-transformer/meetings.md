@@ -1,6 +1,6 @@
-# Particle Transformal Optimization Meetings
+# Particle Transformer Meetings
 
-Meeting notes and action items from the Particle Transformal Optimization team.
+Meeting notes and action items from the Particle Transformer team.
 
 ## Meeting Notes
 

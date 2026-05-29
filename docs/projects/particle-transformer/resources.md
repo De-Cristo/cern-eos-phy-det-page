@@ -1,6 +1,6 @@
-# Particle Transformal Optimization Resources
+# Particle Transformer Resources
 
-References, publications, and external links for the Particle Transformal Optimization project.
+References, publications, and external links for the Particle Transformer project.
 
 ## Project Links
 *   **Repository**: [Training repository on GitLab](https://gitlab.cern.ch/)

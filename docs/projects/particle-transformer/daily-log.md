@@ -1,6 +1,6 @@
-# Particle Transformal Optimization: Daily Log
+# Particle Transformer: Daily Log
 
-Chronological progress, task logs, and decisions for the Particle Transformal Optimization project.
+Chronological progress, task logs, and decisions for the Particle Transformer project.
 
 ## Logbook Entries
 
