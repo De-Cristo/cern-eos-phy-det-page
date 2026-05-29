@@ -32,6 +32,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Ask AI: ask.md
   - Shared Resources:
       - Wiki Overview: wiki/index.md
       - EOS Guide: wiki/eos.md
