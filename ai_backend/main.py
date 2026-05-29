@@ -31,6 +31,15 @@ def read_root():
 def health_check():
     return {"status": "healthy"}
 
+@app.get("/version")
+def version():
+    return {
+        "backend": "ai-backend",
+        "provider": "deepseek",
+        "model": "deepseek-v4-flash",
+        "code_version": "deepseek-v4-flash-001"
+    }
+
 @app.post("/chat")
 async def chat(request: ChatRequest):
     api_key = os.environ.get("DEEPSEEK_API_KEY")
