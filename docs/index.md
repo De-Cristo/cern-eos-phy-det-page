@@ -58,6 +58,14 @@ Welcome to the central workspace for project documentation, daily development lo
 
     [:octicons-arrow-right-16: Enter Project Portal](projects/mtd-llm-harvester/index.md)
 
+-   :material-tune: **[Particle Transformal Optimization](projects/particle-transformal-optimization/index.md)**
+
+    ---
+
+    Transformer-based optimization models for particle reconstruction and track fitting.
+
+    [:octicons-arrow-right-16: Enter Project Portal](projects/particle-transformal-optimization/index.md)
+
 </div>
 
 ## Shared Resources & Guides
