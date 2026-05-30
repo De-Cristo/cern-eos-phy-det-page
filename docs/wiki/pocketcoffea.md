@@ -10,3 +10,4 @@
 ## Links & Resources
 - **Documentation**: [PocketCoffea ReadTheDocs](https://pocketcoffea.readthedocs.io/)
 - **GitHub Repository**: [PocketCoffea](https://github.com/PocketCoffea/PocketCoffea)
+- **Tutorials**: [PocketCoffea Tutorials](https://github.com/PocketCoffea/Tutorials)
