@@ -46,6 +46,14 @@ Welcome to the central workspace for project documentation, daily development lo
 
     [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vhcc-bb-analysis/index.md)
 
+-   :material-chart-line: **[CMS Run3 VHbb Differential Measurement](projects/cms-run3-vhbb-differential-measurement/index.md)**
+
+    ---
+
+    Differential cross-section measurement of Higgs boson decaying to bottom quarks in the VH production mode using Run 3 data.
+
+    [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vhbb-differential-measurement/index.md)
+
 </div>
 
 ## Detector Projects
