@@ -10,6 +10,7 @@ These detailed logs, plots, and design reports are hosted directly on EOS:
 *   [VH Trilinear Overview](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/vh-trilinear-overview.html) (HTML)
 
 ### May 2026
+*   **2026-05-30**: [AN-25-203 Summary](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/cms-run3-vh-generic-contents/2026/2026-05-30-an-25-203-summary.html) (HTML)
 *   **2026-05-25**: [VH Trilinear Reco Regressor Design](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/2026-05-25-vh-trilinear-reco-regressor-design.html) (HTML)
 *   **2026-05-25**: [VH Trilinear Reco Regressor Columns Plan](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/2026-05-25-vh-trilinear-reco-regressor-columns-plan.html) (HTML)
 *   **2026-05-25**: [VH Trilinear AN Chapter Plan](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/2026-05-25-vh-trilinear-an-chapter-plan.html) (HTML)
