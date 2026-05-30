@@ -38,6 +38,7 @@ nav:
       - EOS Guide: wiki/eos.md
       - GitLab Guide: wiki/gitlab.md
       - CMS Analysis: wiki/cms-analysis.md
+      - PocketCoffea: wiki/pocketcoffea.md
   - Templates & Rules:
       - Daily Log Template: doc-templates/daily-log-template.md
       - Project Template: doc-templates/project-template.md

@@ -98,6 +98,7 @@ Welcome to the central workspace for project documentation, daily development lo
     *   [:octicons-server-16: EOS Storage Guide](wiki/eos.md)
     *   [:octicons-git-branch-16: GitLab Workflow](wiki/gitlab.md)
     *   [:octicons-command-palette-16: CMS Analysis](wiki/cms-analysis.md)
+    *   [:octicons-codespaces-16: PocketCoffea Framework](wiki/pocketcoffea.md)
 
 -   :material-file-document-edit: **Templates & Rules**
 
