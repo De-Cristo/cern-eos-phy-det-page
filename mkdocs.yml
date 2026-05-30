@@ -51,8 +51,4 @@ validation:
   nav:
     omitted_files: ignore
 
-extra_css:
-  - assets/stylesheets/ai-chat.css
 
-extra_javascript:
-  - assets/javascripts/ai-chat.js

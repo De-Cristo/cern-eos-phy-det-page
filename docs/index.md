@@ -52,6 +52,14 @@ Welcome to the central workspace for project documentation, daily development lo
 
     [:octicons-arrow-right-16: Enter Project Portal](projects/lhc-daq-review/index.md)
 
+-   :material-memory: **[BTL Test Beam Analysis](projects/btl-test-beam-analysis/index.md)**
+
+    ---
+
+    Analysis of test beam data for the Barrel Timing Layer (BTL) detector.
+
+    [:octicons-arrow-right-16: Enter Project Portal](projects/btl-test-beam-analysis/index.md)
+
 </div>
 
 ## AI & Machine Learning
