@@ -54,6 +54,14 @@ Welcome to the central workspace for project documentation, daily development lo
 
     [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vhbb-differential-measurement/index.md)
 
+-   :material-folder-multiple: **[CMS Run3 VH Generic contents](projects/cms-run3-vh-generic-contents/index.md)**
+
+    ---
+
+    Generic analysis code, common tools, and shared contents for VH production modes using Run 3 data.
+
+    [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vh-generic-contents/index.md)
+
 </div>
 
 ## Detector Projects
