@@ -38,6 +38,14 @@ Welcome to the central workspace for project documentation, daily development lo
 
     [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vhbb-stxs-stage-1.3/index.md)
 
+-   :material-chart-bell-curve: **[CMS Run3 VHcc/bb Analysis](projects/cms-run3-vhcc-bb-analysis/index.md)**
+
+    ---
+
+    Measurement and search for Higgs boson decays to charm and bottom quarks in the VH production mode using Run 3 data.
+
+    [:octicons-arrow-right-16: Enter Project Portal](projects/cms-run3-vhcc-bb-analysis/index.md)
+
 </div>
 
 ## Detector Projects
