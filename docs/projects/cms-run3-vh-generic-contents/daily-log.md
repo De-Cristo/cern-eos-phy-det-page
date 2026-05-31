@@ -9,6 +9,9 @@ These detailed logs, plots, and design reports are hosted directly on EOS:
 *   [Diary Index](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/index.html) (HTML)
 
 ### May 2026
+*   **2026-05-30**: [AN-26-079 Summary](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/cms-run3-vh-generic-contents/2026/2026-05-30-an-26-079-summary.html) (HTML)
+*   **2026-05-30**: [AN-26-078 Summary](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/cms-run3-vhbb-stxs-stage-1.3/2026/2026-05-30-an-26-078-summary.html) (HTML)
+*   **2026-05-30**: [AN-25-006 Summary](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/cms-run3-vhcc-bb-analysis/2026/2026-05-30-an-25-006-summary.html) (HTML)
 *   **2026-05-30**: [AN-25-203 Summary](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/cms-run3-vh-generic-contents/2026/2026-05-30-an-25-203-summary.html) (HTML)
 
 ---
