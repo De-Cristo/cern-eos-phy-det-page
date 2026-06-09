@@ -7,6 +7,10 @@ These detailed logs, implementations, and design reports are hosted directly on 
 
 ### June 2026
 *   **2026-06-09**: [MTD LLM Harvester Complete Walkthrough & Architecture](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/mtd-llm-harvester/2026/2026-06-09-walkthrough.html) (HTML)
+*   **2026-06-09**: [MTD LLM Harvester Q&A Deep Dive](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/mtd-llm-harvester/2026/2026-06-09-q-and-a.html) (HTML)
+*   **2026-06-09**: [Report 1: Knowledge Base Architecture — Human & Agentic Design](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/mtd-llm-harvester/2026/2026-06-09-report-1.html) (HTML)
+*   **2026-06-09**: [Report 2: Operational Agent Harness — Doing Something Real](https://cms-phy-det-analysis.docs.cern.ch/external/daily-html/mtd-llm-harvester/2026/2026-06-09-report-2.html) (HTML)
+
 
 ---
 
