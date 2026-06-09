@@ -9,3 +9,7 @@ Meeting logs, notes, and action items for the MTD LLM Harvester project.
 *   **Action Items**:
     *   `[ ]` Obtain sample MTD configuration and shift log exports (All)
     *   `[ ]` Draft initial LLM prompt architectures for parsing logs (Developer)
+
+### MTD-BTL General Meeting (2026-06-09)
+*   **Discussion**: Presented the project status and plan ("LLM Wiki for MTD") to the collaboration.
+*   **Meeting Material**: [Indico Agenda Contribution #56](https://indico.cern.ch/event/1694492/#56-llm-wiki-for-mtd)
