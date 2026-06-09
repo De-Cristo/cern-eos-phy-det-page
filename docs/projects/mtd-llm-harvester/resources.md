@@ -14,3 +14,8 @@ Key resources, reference papers, and repositories for the MTD LLM Harvester.
 ## Presentations
 *   **[LLM Wiki for MTD](https://indico.cern.ch/event/1694492/#56-llm-wiki-for-mtd)** (MTD-BTL General Meeting, 2026-06-09)
 
+## External Agent & Memory Frameworks
+*   **[pi (earendil-works/pi)](https://github.com/earendil-works/pi)**: A minimal, terminal-based AI coding harness and agentic runtime designed for extensibility.
+*   **[gbrain (garrytan/gbrain)](https://github.com/garrytan/gbrain)**: An opinionated AI agent memory system using a hybrid graph/vector database to persist context across sessions.
+
+
