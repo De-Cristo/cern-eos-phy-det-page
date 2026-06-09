@@ -13,6 +13,8 @@ Key resources, reference papers, and repositories for the MTD LLM Harvester.
 
 ## Presentations
 *   **[LLM Wiki for MTD](https://indico.cern.ch/event/1694492/#56-llm-wiki-for-mtd)** (MTD-BTL General Meeting, 2026-06-09)
+*   **[LLM for Automated Operations (Poster)](https://indico.cern.ch/event/1687200/timetable/?view=standard_inline_minutes#129-30-llm-for-automated-opera)** (June CMS Week 2026, 2026-06-08 to 2026-06-12)
+
 
 ## External Agent & Memory Frameworks
 *   **[pi (earendil-works/pi)](https://github.com/earendil-works/pi)**: A minimal, terminal-based AI coding harness and agentic runtime designed for extensibility.
